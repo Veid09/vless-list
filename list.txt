@@ -1,1 +1,1 @@
-vless://a2b16339-3cf4-4df9-a84e-cdc4985074c5@158.160.105.148:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=id.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2329
+vless://98de5a5f-d309-44c6-b67a-bfa02a82fcef@51.250.22.142:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=id.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Oyster%20Telecom%20%E2%80%94%20%234

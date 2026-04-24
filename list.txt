@@ -1,1 +1,1 @@
-vless://a0e461d0-21ca-4698-8fae-dcf52945868f@104.252.111.148:40443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=chrome&sni=google.com&pbk=X7okY4_-lhIybXtijFD3gIqOptNtn9LWYo6gXrJlUEU&sid=7362a464388e46a4&spx=%2F#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23651
+vless://a0e461d0-21ca-4698-8fae-dcf52945868f@159.195.69.46:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=apple.com&pbk=FTqwbHsPie1ihfB6z0-hhyn31OJqAg6iohtVhwZ2_w4&sid=39192174fc3b4920&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23466

@@ -1,1 +1,1 @@
-vless://511de852-8b34-41b9-91d2-28eba0981beb@150.241.70.2:5443?encryption=none&type=tcp&security=reality&sni=google.com&pbk=pkoDwsD2w2qdS9J9YXsV4QH-e7QtjspW2mejpB67dhY&sid=68ac7d27030a06#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23459
+vless://f350fdfc-fd39-4609-abce-e9d66d6c5b5f@159.195.69.46:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=apple.com&pbk=FTqwbHsPie1ihfB6z0-hhyn31OJqAg6iohtVhwZ2_w4&sid=39192174fc3b4920&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23351

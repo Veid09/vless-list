@@ -1,1 +1,1 @@
-vless://6edb82b2-425a-11f1-8d2f-dc08fb041e0d@172.86.93.97:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.google.com&pbk=uJ-BxRVgVWNn-cIgpBCtrYPShFR9wE7pn_JQxC2vgHc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23219
+vless://c931f737-cafe-4e4f-998a-a65517941256@85.208.139.98:8444?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdnjs.com&pbk=Hp6K5hsiPY4_zATgAtef9YTxNGpSkhAHTTo9MUO7fik&sid=77e934f68f02ab4c#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23246

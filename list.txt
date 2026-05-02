@@ -1,3 +1,1 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.165.152.30:8880?encryption=none&type=ws&security=none&host=vms.lifetime61.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2398
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.153.30:8880?encryption=none&type=ws&security=none&host=vms.lifetime44.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2399
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.209.30:8880?encryption=none&type=ws&security=none&host=vms.lifetime04.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23100

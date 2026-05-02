@@ -1,2 +1,1 @@
-vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80?encryption=none&type=ws&security=none&host=leecher56.matinheydri.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23169
 vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&type=ws&security=none&host=netherlands.vipserver14.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23161

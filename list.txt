@@ -3,3 +3,4 @@ vless://787b3724-16c8-4e58-a038-2b8013cdc6d9@172.64.155.209:80?encryption=none&t
 vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80?encryption=none&type=ws&security=none&path=%2F&host=fragrant-recipe-09f4.wopecuyubak61.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23184
 vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80?encryption=none&type=ws&security=none&host=leecher56.matinheydri.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23186
 vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.15.19:80?encryption=none&type=ws&security=none&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23185
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.0.30:8880?encryption=none&type=ws&security=none&host=vms.lifetime60.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23203

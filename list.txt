@@ -1,1 +1,2 @@
 vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80?encryption=none&type=ws&security=none&path=%2F&host=fragrant-recipe-09f4.wopecuyubak61.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23227
+vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.14.19:80?encryption=none&type=ws&security=none&path=%2F&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23228

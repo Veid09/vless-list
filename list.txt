@@ -1,3 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.0.30:8880?encryption=none&type=ws&security=none&host=vms.lifetime60.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2353
-vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&type=ws&security=none&host=netherlands.vipserver14.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2357
 vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.14.19:80?encryption=none&type=ws&security=none&path=%2F&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2355
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.0.30:8880?encryption=none&type=ws&security=none&host=vms.lifetime60.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2353
